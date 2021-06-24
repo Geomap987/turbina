@@ -10,4 +10,4 @@
 3. Подключить проект к серверу
 4. Перенести проект на React
 
-**[Ссылка на проект](https://konstantinovmax.github.io/turbina/index.html)**
+**https://geomap987.github.io/turbina/**
