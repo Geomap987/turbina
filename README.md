@@ -1,10 +1,9 @@
-# Проект Турбинá
+This is a team project created for the non-profit organization **Marshak** — an application designed to promote children’s creativity, where parents can share their children’s songs and poems with a wider audience.
 
-Это командный проект для НКО "Маршак" - приложение для продвижения детского творчества, где каждый родитель может поделиться песнями и стихами своих детей с широкой аудиторией. Нашей задачей была разработка фронтенда на React.js. Работа была выполнена в команде с Павлом Еремеевым и Максимом Константиновым. Мой вклад - это реализация медиаплеера и адаптивная верстка.
+Our team was responsible for developing the frontend using **React.js**. The project was completed in collaboration with **Pavel Eremeev** and **Maxim Konstantinov**. My personal contribution included building the media player and implementing the responsive layout.
 
-**Применяемые технологии**
-1. Реализация проекта на React.js
-1. Организация HTML-кода и файлового хранилища по методологии БЭМ
-2. Адаптивная, отзывчивая вёрстка с применением Flexbox, Media Queries, Desktop First, Pixel Perfect
+## Technologies Used
 
-**https://geomap987.github.io/turbina/**
+- React.js
+- BEM methodology for HTML structure and file organization
+- Responsive and adaptive layout with Flexbox and Media Queries
